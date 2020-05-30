@@ -31,5 +31,7 @@ fn main() {
                 break;
             }
         }
+
+        println!("Ending game..");
     }
 }
